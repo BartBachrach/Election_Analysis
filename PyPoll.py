@@ -35,7 +35,7 @@ with open(file_to_load) as election_data:
                     # add to the total vote
                     total_votes += 1
                     # Print the candidate name from each row
-                    candidate_name = row[2] # WHY IS CANDIDATE NAME ONLY ASSOCIATED WITH RAYMON ANTHONY DOANE?
+                    candidate_name = row[2] # WHY IS CANDIDATE_NAME ONLY ASSOCIATED WITH RAYMON ANTHONY DOANE?
 
                     if candidate_name not in candidate_options:
                             
