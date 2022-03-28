@@ -3,10 +3,10 @@ import csv
 import os
 
 # Assign a variable for the file to load from a path
-file_to_load = os.path.join('/Users/adambachrach/Desktop/Election_Analysis/Resources/election_results.csv') #ASK TUTOR ABOUT THE INDIRECT FILE PATH METHOD
+file_to_load = os.path.join('/Users/adambachrach/Desktop/data-bootcamp/Election_Analysis/Resources/election_results.csv') #ASK TUTOR ABOUT THE INDIRECT FILE PATH METHOD
 
 #assign a variable to save the file to a path
-file_to_save = os.path.join('/Users/adambachrach/Desktop/Election_Analysis/analysis/election_analysis.txt') #ASK TUTOR ABOUT THE INDIRECT FILE PATH
+file_to_save = os.path.join('/Users/adambachrach/Desktop/data-bootcamp/Election_Analysis/analysis/election_analysis.txt') #ASK TUTOR ABOUT THE INDIRECT FILE PATH
 
 # Initialize a total vote counter
 total_votes = 0
