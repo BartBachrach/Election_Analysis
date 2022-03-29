@@ -27,7 +27,7 @@ with open(file_to_load) as election_data:
                 # To do: read and analyze the data here.
                 file_reader = csv.reader(election_data)
 
-                # Print the heade row.
+                # Print the header row.
                 headers = next(file_reader)
                 
                 # Print each row in the csv file.
