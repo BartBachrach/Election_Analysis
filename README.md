@@ -8,4 +8,4 @@ This analysis required us to read through the data set and determine how many vo
 ## Results
 We determined that Dianna DeGette was the winner of the election with 73.8% of the votes cast for her, a landslide victory, followed by Charles Casper Stockham with 23.0% of the votes, and Raymon Anthony Doane with the remaining 3.1%. 
 Denver county voters turned out in the greatest numbers at 306,055 total votes cast, the majority of which were in favor of DeGette, followed by Jefferson and Arapahoe counties. One explanation for this is that Denver county is the most populous of the 3 counties that comprise the Denver area, although other factors may affect this analysis such as access to polls and means of transportation TO the polls. 
-![This is an image][Module_3_Challenge_Screenshot.png]
+![This is an image](https://github.com/BartBachrach/Election_Analysis/blob/main/Resources/Module_3_Challenge_Screenshot.png)
